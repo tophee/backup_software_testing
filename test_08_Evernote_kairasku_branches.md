@@ -95,7 +95,7 @@ By my understanding, although all the chunks were replaced in the 3 jobs, the **
 |                   3.023.966 |                29.896 |     4    |           2.650 |              39 |        29.194 |              01:32              |
 |                   5.967.668 |             2.943.702 |     5    |           2.688 |           2.681 |     2.807.000 |              04:16              |
   
-| HW - storage size by Rclone | HW - storage increase | Revision | HW - all chunks | HW - new chunks | HW - uploaded | backup time - DB (1M FIX) |
+| HW - storage size by Rclone | HW - storage increase | Revision | HW - all chunks | HW - new chunks | HW - uploaded | backup time - DB (1M VAR) |
 |----------------------------:|----------------------:|:--------:|----------------:|----------------:|--------------:|--------------------------:|
 |                   2.942.324 |                       |     1    |           2.643 |           2.622 |     2.795.000 |           04:41           |
 |                   2.959.113 |                16.789 |     2    |           2.647 |              25 |        16.395 |           01:22           |
@@ -103,7 +103,7 @@ By my understanding, although all the chunks were replaced in the 3 jobs, the **
 |                   3.009.486 |                24.443 |     4    |           2.648 |              33 |        23.869 |           01:30           |
 |                   5.952.276 |             2.942.790 |     5    |           2.664 |           2.655 |     2.806.000 |           06:20           |  
 
-| FB - storage size by Rclone | FB - storage increase | Revision | FB - all chunks | FB - new chunks | FB - uploaded | backup time - DB (1M FIX) |
+| FB - storage size by Rclone | FB - storage increase | Revision | FB - all chunks | FB - new chunks | FB - uploaded | backup time - DB (1M VAR) |
 |----------------------------:|----------------------:|:--------:|----------------:|----------------:|--------------:|--------------------------:|
 |                   2.942.453 |                       |     1    |           2.691 |           2.643 |     2.791.000 |           03:17           |
 |                   2.962.382 |                19.929 |     2    |           2.694 |              29 |        19.461 |           01:07           |
